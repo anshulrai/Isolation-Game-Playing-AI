@@ -95,3 +95,8 @@ ENV/
 .ropeproject
 
 # End of https://www.gitignore.io/api/python
+.udacity-pa/projects.py
+isolation-212479.zip
+isolation-result-212479.json
+isolation/README.md
+LICENSE
