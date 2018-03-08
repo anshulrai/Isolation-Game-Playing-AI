@@ -1,5 +1,5 @@
 
-# Build a Isolation Game-playing Agent
+# Isolation Game-Playing AI
 
 ![Example game of isolation](viz.gif)
 
